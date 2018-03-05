@@ -1,0 +1,2 @@
+# RRSingleRowAutoScrollView
+一款基于scrollView上下滚动、可点击的单条横向新闻展示栏控件
